@@ -1,0 +1,4 @@
+﻿fromEmail,toEmail,subject,couponCode,discount,attachmentPath,
+skilltoupgrade@gmail.com,skilltoupgrade@gmail.com,Welcome to JMeter class,1234,75%,C:\Users\kiran\Downloads\JMeter now\skill.txt,
+skilltoupgrade@gmail.com,ram001.yadav@gmail.com,Welcome to JMeter class,8765,85%,C:\Users\kiran\Downloads\JMeter now\manjunath.txt,
+skilltoupgrade@gmail.com,krishnabanty2010@gmail.com,Welcome to JMeter class,5678,90%,C:\Users\kiran\Downloads\JMeter now\krishna.txt

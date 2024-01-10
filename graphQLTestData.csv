@@ -1,0 +1,5 @@
+name,gender,email,status,idToBeDeleted,idToBeUpdated,nameTobeUpdated
+salaar,male,salaar@film.com,active,5859494,5859501,Tollywood
+dunki,female,dunki@film.com,inactive,5859493,5859498,Bollywood
+kgf1,male,kgf1@film.com,inactive,5859492,5859497,Hollywood
+animal,male,animal@film.com,active,5859491,5859495,Kollywood

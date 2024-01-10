@@ -1,0 +1,7 @@
+username,firstname,zipcode,ssn,lastname,password,phonenumber,repeatPassword,city,state,street
+charan,charan,12345,12345,SG,charan123,9988776655,charan123,Hyderabad,Telangana,Street1
+manjunath,manjunath,23456,23456,SG,manjunath234,7766554433,manjunath234,Pune,Maharastra,Street2
+panthalaraja,panthalaraja,45678,45678,SG,panthalaraja456,1234567890,panthalaraja456,Bengaluru,Karnataka,Street3
+ravikumar,ravikumar,56789,56789,SG,ravikumar567,98765432,ravikumar567,Chennai,Tamilnadu,Street4
+prasuna,prasuna,67890,67890,SG,prasuna678,876543212,prasuna678,Mumbai,Maharastra,Street5
+raghavendra,raghavendra,87654,87654,SG,raghavendra876,876787656,raghavendra876,Delhi,Delhi,Street6

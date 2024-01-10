@@ -1,0 +1,11 @@
+un,pwd,hospitalAdmission,comment,insuranceType,facility,visitDate
+John Doe,ThisIsNotAPassword,Yes,Cold checkup,Medicare,Tokyo CURA Healthcare Center,27-12-2023
+John Doe,ThisIsNotAPassword,No,Cough checkup,Medicaid,Hongkong CURA Healthcare Center,28-12-2023
+John Doe,ThisIsNotAPassword,Yes,"Fever, Body Pains",None,Seoul CURA Healthcare Center,29-12-2023
+John Doe,ThisIsNotAPassword,No,Vaccination for kids,Medicare,Tokyo CURA Healthcare Center,30-12-2023
+John Doe,ThisIsNotAPassword,Yes,Body health checkup scan,Medicaid,Hongkong CURA Healthcare Center,31-12-2023
+John Doe,ThisIsNotAPassword,No,Marketing,None,Seoul CURA Healthcare Center,01-01-2024
+John Doe,ThisIsNotAPassword,Yes,2nd opinion,Medicare,Tokyo CURA Healthcare Center,02-01-2024
+John Doe,ThisIsNotAPassword,No,Sugar checkup,Medicaid,Hongkong CURA Healthcare Center,03-01-2024
+John Doe,ThisIsNotAPassword,Yes,Diabetics checkup,None,Seoul CURA Healthcare Center,04-01-2024
+John Doe,ThisIsNotAPassword,No,Timepass,Medicare,Tokyo CURA Healthcare Center,05-01-2024
