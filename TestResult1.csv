@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701923601369,2201,YAHOO HOME PAGE,200,OK,Thread Group 1-1,text,true,,139046,115,5,5,https://www.yahoo.com/,1695,0,887
+1701923601630,1990,YAHOO HOME PAGE,200,OK,Thread Group 1-2,text,true,,138968,115,5,5,https://www.yahoo.com/,1491,0,626
+1701923601876,1870,YAHOO HOME PAGE,200,OK,Thread Group 1-3,text,true,,139029,115,5,5,https://www.yahoo.com/,1383,0,390
+1701923602123,1870,YAHOO HOME PAGE,200,OK,Thread Group 1-4,text,true,,141086,115,5,5,https://www.yahoo.com/,1360,0,395
+1701923602374,1722,YAHOO HOME PAGE,200,OK,Thread Group 1-5,text,true,,140864,115,5,5,https://www.yahoo.com/,1232,0,395
+1701923603748,3265,YAHOO FINANCE PAGE,200,OK,Thread Group 1-3,text,true,,1403646,135,5,5,https://finance.yahoo.com/trending-tickers,1280,0,719
+1701923603571,3692,YAHOO FINANCE PAGE,200,OK,Thread Group 1-1,text,true,,1403150,135,5,5,https://finance.yahoo.com/trending-tickers,1463,0,904
+1701923604097,3265,YAHOO FINANCE PAGE,200,OK,Thread Group 1-5,text,true,,1402695,135,5,5,https://finance.yahoo.com/trending-tickers,1061,0,401
+1701923603994,3747,YAHOO FINANCE PAGE,200,OK,Thread Group 1-4,text,true,,1403215,135,5,5,https://finance.yahoo.com/trending-tickers,1090,0,470
+1701923607014,1238,YAHOO HOME PAGE,200,OK,Thread Group 1-3,text,true,,138970,115,5,5,https://www.yahoo.com/,758,0,0
+1701923603621,4936,YAHOO FINANCE PAGE,200,OK,Thread Group 1-2,text,true,,1403751,135,5,5,https://finance.yahoo.com/trending-tickers,1964,0,874
+1701923607363,1353,YAHOO HOME PAGE,200,OK,Thread Group 1-5,text,true,,140823,115,5,5,https://www.yahoo.com/,859,0,0
+1701923607264,1562,YAHOO HOME PAGE,200,OK,Thread Group 1-1,text,true,,140722,115,5,5,https://www.yahoo.com/,1068,0,0
+1701923607742,1369,YAHOO HOME PAGE,200,OK,Thread Group 1-4,text,true,,140730,115,5,5,https://www.yahoo.com/,872,0,0
+1701923608253,1412,YAHOO FINANCE PAGE,200,OK,Thread Group 1-3,text,true,,1403575,135,5,5,https://finance.yahoo.com/trending-tickers,508,0,0
+1701923608557,1359,YAHOO HOME PAGE,200,OK,Thread Group 1-2,text,true,,138922,115,4,4,https://www.yahoo.com/,875,0,0
+1701923608827,3596,YAHOO FINANCE PAGE,200,OK,Thread Group 1-1,text,true,,1403244,135,4,4,https://finance.yahoo.com/trending-tickers,637,0,0
+1701923608717,3862,YAHOO FINANCE PAGE,200,OK,Thread Group 1-5,text,true,,1403741,135,3,3,https://finance.yahoo.com/trending-tickers,573,0,0
+1701923609111,5031,YAHOO FINANCE PAGE,200,OK,Thread Group 1-4,text,true,,1403163,135,2,2,https://finance.yahoo.com/trending-tickers,551,0,0
+1701923609917,12396,YAHOO FINANCE PAGE,200,OK,Thread Group 1-2,text,true,,1402765,135,1,1,https://finance.yahoo.com/trending-tickers,1259,0,0

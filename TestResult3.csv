@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2023/12/08 09:52:09.883,2321,YAHOO HOME PAGE,200,OK,Thread Group 1-1,text,true,,1119806,191,2,2,https://www.yahoo.com/,1275,0,904
+2023/12/08 09:52:11.885,2020,YAHOO HOME PAGE,200,OK,Thread Group 1-2,text,true,,1119517,191,2,2,https://www.yahoo.com/,945,0,414
+2023/12/08 09:52:12.209,3909,YAHOO FINANCE PAGE,200,OK,Thread Group 1-1,text,true,,1640105,211,2,2,https://finance.yahoo.com/trending-tickers,1966,0,1119
+2023/12/08 09:52:13.907,2633,YAHOO FINANCE PAGE,200,OK,Thread Group 1-2,text,true,,1665549,211,2,2,https://finance.yahoo.com/trending-tickers,1195,0,407
+2023/12/08 09:52:16.121,1461,YAHOO HOME PAGE,200,OK,Thread Group 1-1,text,true,,1119708,191,2,2,https://www.yahoo.com/,447,0,0
+2023/12/08 09:52:16.542,3035,YAHOO HOME PAGE,200,OK,Thread Group 1-2,text,true,,1119596,191,2,2,https://www.yahoo.com/,703,0,0
+2023/12/08 09:52:17.583,2920,YAHOO FINANCE PAGE,200,OK,Thread Group 1-1,text,true,,1641943,211,2,2,https://finance.yahoo.com/trending-tickers,889,0,0
+2023/12/08 09:52:19.579,4349,YAHOO FINANCE PAGE,200,OK,Thread Group 1-2,text,true,,1640648,211,1,1,https://finance.yahoo.com/trending-tickers,953,0,0

@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Visit Home Page,98,603,0,2433,254.79,0.000%,1.63434,531.44,0.20,332971.9
+Click on Lunch Recipe,98,633,0,954,58.19,0.000%,1.68611,576.20,0.24,349935.6
+Click on Chinese Tomato Egg Fry,95,580,0,864,45.37,0.000%,1.68787,510.66,0.26,309810.6
+TOTAL,291,606,0,2433,155.37,0.000%,4.80555,1553.94,0.66,331123.5
